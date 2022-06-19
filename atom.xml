@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://whitecathitea.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://whitecathitea.github.io/"/>
+  <updated>2022-06-19T04:40:02.893Z</updated>
+  <id>http://whitecathitea.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://whitecathitea.github.io/2022/06/19/Typora+Nodejs+picgo%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/"/>
+    <id>http://whitecathitea.github.io/2022/06/19/Typora+Nodejs+picgo%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/</id>
+    <published>2022-06-19T07:42:12.553Z</published>
+    <updated>2022-06-19T04:40:02.893Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><h1 id="Typora-Nodejs-picgo图床配置"><a href="#Typora-Nodejs-picgo图床配置" class="headerlink" title="Typora+Nodejs+picgo图床配置"></a>Typora+Nodejs+picgo图床配置</h1><h2 id="第1步-下载Typora、Picgo和Nodejs"><a href="#第1步-下载Typora、Picgo和Nodejs" class="headerlink" title="第1步: 下载Typora、Picgo和Nodejs"></a>第1步: 下载Typora、Picgo和Nodejs</h2><p>typora版本: 0.9.98</p><p>​安装: 傻瓜式一路next即可(记得变下路径和创建桌面图标)</p><p>picgo版本: 2.3.0(beta6)</p><p>​安装: 傻瓜式一路next即可(记得变下路径和创建桌面图标)</p><p>Nodejs版本: 16.14.0</p><p>​安装: <a href="https://www.cnblogs.com/liuqiyun/p/8133904.html">Node.js安装及环境配置之Windows篇 - 刘奇云 - 博客园 (cnblogs.com)</a></p><p><img src="/%E5%9B%BE%E7%A4%BA/0.png"></p><blockquote><p>① 查看nodejs是否安装成功: cmd中输入 node -v 和 npm -v 显示版本表示安装成功.</p><p>② 必须确定下载安装好nodejs再进行下一步配置picgo, 否则会报错</p><p>③ 如果Nodejs安装有问题,按如下步骤卸载</p><p><img src="/%E5%9B%BE%E7%A4%BA/12.png" alt="12"></p></blockquote><h2 id="第2步-配置Picgo"><a href="#第2步-配置Picgo" class="headerlink" title="第2步: 配置Picgo"></a>第2步: 配置Picgo</h2><p><img src="/%E5%9B%BE%E7%A4%BA/1.png"><br><img src="/%E5%9B%BE%E7%A4%BA/2.png"><br><img src="/%E5%9B%BE%E7%A4%BA/3.png"><br><img src="/%E5%9B%BE%E7%A4%BA/4.png"><br><img src="/%E5%9B%BE%E7%A4%BA/5.png"><br><img src="/%E5%9B%BE%E7%A4%BA/6.png"><br><img src="/%E5%9B%BE%E7%A4%BA/7.png"><br><img src="/%E5%9B%BE%E7%A4%BA/8.png"><br><img src="/%E5%9B%BE%E7%A4%BA/9.png"></p><h2 id="第3步-配置-Typora"><a href="#第3步-配置-Typora" class="headerlink" title="第3步: 配置 Typora"></a>第3步: 配置 Typora</h2><p><img src="/%E5%9B%BE%E7%A4%BA/10.png"><br><img src="/%E5%9B%BE%E7%A4%BA/11.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;Typora-Nodejs-picgo图床配置&quot;&gt;&lt;a href=&quot;#Typora-Nodejs-picgo图床配置&quot; class=&quot;headerlink&quot; title=&quot;Typora+Nodejs+picgo图床配置&quot;&gt;&lt;/a&gt;Typo</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://whitecathitea.github.io/2022/06/19/Hexo+github%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>http://whitecathitea.github.io/2022/06/19/Hexo+github%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <published>2022-06-19T07:42:08.093Z</published>
+    <updated>2022-06-19T07:41:58.154Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Hexo-github博客搭建"><a href="#Hexo-github博客搭建" class="headerlink" title="Hexo+github博客搭建"></a>Hexo+github博客搭建</h1><h2 id="第1步-安装Nodejs-和-Git"><a href="#第1步-安装Nodejs-和-Git" class="headerlink" title="第1步: 安装Nodejs 和 Git"></a>第1步: 安装Nodejs 和 Git</h2><p>Nodejs版本: 16.14.0</p><p>​① 安装: <a href="https://www.cnblogs.com/liuqiyun/p/8133904.html">Node.js安装及环境配置之Windows篇 - 刘奇云 - 博客园 (cnblogs.com)</a></p><p>​② 检测是否安装成功(cmd): <code>node -v </code> 和 <code>npm -v</code></p><p><img src="/%E5%9B%BE%E7%A4%BA/1.png" alt="1"></p><p>Git版本: 2.35.1.2</p><p>​    ① 安装: <a href="https://blog.csdn.net/a6661314/article/details/122975744">Git Windows安装教程（2.35.1.2版本）_跳舞的皮埃尔的博客-CSDN博客_git windows版</a></p><p>​② 检测是否安装成功(cmd): <code>git --version</code></p><p><img src="/%E5%9B%BE%E7%A4%BA/2.png" alt="1"></p><h2 id="第2步-安装Hexo"><a href="#第2步-安装Hexo" class="headerlink" title="第2步: 安装Hexo"></a>第2步: 安装Hexo</h2><p>Hexo版本: 4.3.0</p><p>​① 安装: <code>npm install hexo-cli -g</code></p><p>​② 检测是否安装成功(cmd): <code>hexo -v</code></p><p><img src="/%E5%9B%BE%E7%A4%BA/3.png" alt="1"></p><h2 id="第3步-搭建GitHub仓库"><a href="#第3步-搭建GitHub仓库" class="headerlink" title="第3步: 搭建GitHub仓库"></a>第3步: 搭建GitHub仓库</h2><p>① gitHub注册(已注册忽略此步骤): <a href="https://www.bilibili.com/read/cv5107169">Github注册+登录方法 - 哔哩哔哩 (bilibili.com)</a></p><p>② 创建仓库:<br>​<img src="/%E5%9B%BE%E7%A4%BA/4.png" alt="4"></p><p><img src="/%E5%9B%BE%E7%A4%BA/5.png" alt="4"></p><h2 id="第4步-通过SSH-key将仓库绑定到本地"><a href="#第4步-通过SSH-key将仓库绑定到本地" class="headerlink" title="第4步: 通过SSH key将仓库绑定到本地"></a>第4步: 通过SSH key将仓库绑定到本地</h2><p>① 新建一个softwaremyBlog文件夹,然后在该文件夹中打开 Git Bash Here</p><p>​<img src="/%E5%9B%BE%E7%A4%BA/6.png" alt="4"></p><p>②查看是否安装ssh: <code>ssh</code></p><p><img src="/%E5%9B%BE%E7%A4%BA/7.png" alt="4"></p><p>③生成ssh: <code>ssh-keygen -t rsa -C &quot;github注册时的邮箱地址&quot;</code></p><p><img src="/%E5%9B%BE%E7%A4%BA/8.png" alt="4"></p><p>④ 复制生成的ssh: 到路径C:\Users\用户名\下的.ssh文件夹中找到id_rsa.pub文件,用Notepad++打开并复制其中的内容</p><p><img src="/%E5%9B%BE%E7%A4%BA/9.png" alt="4"></p><p>⑤ 将复制内容粘贴到GitHub上生成SSH密钥</p><p>​<img src="/%E5%9B%BE%E7%A4%BA/10.png" alt="4"></p><p><img src="/%E5%9B%BE%E7%A4%BA/11.png" alt="4"></p><p>​⑥ 检测是否绑定成功: <code>ssh -T git@github.com</code></p><p>​<img src="/%E5%9B%BE%E7%A4%BA/12.png" alt="4"></p><pre><code>## 第5步: 本地开启博客</code></pre><p>① 初始化hexo博客: <code>hexo init</code></p><p>​<img src="/%E5%9B%BE%E7%A4%BA/13.png" alt="4"></p><p>② 静态生成本地的hexo页面: <code>hexo s</code></p><p>​<img src="/%E5%9B%BE%E7%A4%BA/14.png" alt="4"></p><p><img src="/%E5%9B%BE%E7%A4%BA/15.png" alt="4"></p><h2 id="第6步-将本地博客上传至互联网"><a href="#第6步-将本地博客上传至互联网" class="headerlink" title="第6步: 将本地博客上传至互联网"></a>第6步: 将本地博客上传至互联网</h2><p>① 修改配置文件(路径为‪D:\softwaremyBlog\_config.yml)</p><p><img src="/%E5%9B%BE%E7%A4%BA/16.png" alt="4"></p><p>② 在softwaremyBlog文件夹中右击打开git bush, 安装hexo-deployer-git自动部署发布工具: <code>npm install hexo-deployer-git --save</code></p><p>③输入邮箱和用户名:</p><p>​ <code>git config --global user.email &quot;你的邮箱&quot;</code></p><p>​<code>git config --global user.name &quot;你的gihub名字&quot;</code></p><p>④ 清除之前生成文件: <code>hexo clean</code></p><p>⑤ 生成页面: <code>hexo g</code></p><p>⑥ 将本地内容上传到GitHub仓库: <code>hexo d</code></p><h2 id="第7步-安装主题"><a href="#第7步-安装主题" class="headerlink" title="第7步: 安装主题"></a>第7步: 安装主题</h2><p>① softwaremyBlog文件夹中右击打开git bush</p><p>输入: <code>git clone https://github.com/zthxxx/hexo-theme-Wikitten.git themes/Wikitten</code>安装主题</p><p><img src="/%E5%9B%BE%E7%A4%BA/17.png" alt="17"></p><p>② 重写已覆盖站点文件夹中某些默认页面模板<br><code>$ cp -rf themes/Wikitten/_source/* source/</code><br><code>$ cp -rf themes/Wikitten/_scaffolds/* scaffolds/</code></p><p>③ 重命名以便于配置主题<br><code>cp -f themes/Wikitten/_config.yml.example themes/Wikitten/_config.yml</code></p><p>④ 修改_config.yml文件中的theme字段为wikitten(主题的名字)</p><p><img src="/%E5%9B%BE%E7%A4%BA/18.png" alt="18"></p><p>⑤ 修改_config.yml文件中的其他配置文件<br><img src="/%E5%9B%BE%E7%A4%BA/19.png" alt="18"><br><img src="/%E5%9B%BE%E7%A4%BA/20.png" alt="18"><br><img src="/%E5%9B%BE%E7%A4%BA/21.png" alt="18"></p><p>⑥ 修改 source\tags文件下的index内容</p><p><img src="/%E5%9B%BE%E7%A4%BA/22.png" alt="18"></p><p>⑦ 更新到网络端</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo s</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Hexo-github博客搭建&quot;&gt;&lt;a href=&quot;#Hexo-github博客搭建&quot; class=&quot;headerlink&quot; title=&quot;Hexo+github博客搭建&quot;&gt;&lt;/a&gt;Hexo+github博客搭建&lt;/h1&gt;&lt;h2 id=&quot;第1步-安装Nodejs-</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://whitecathitea.github.io/2022/06/19/hello-world/"/>
+    <id>http://whitecathitea.github.io/2022/06/19/hello-world/</id>
+    <published>2022-06-19T05:31:04.385Z</published>
+    <updated>2022-06-19T05:31:04.385Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
