@@ -1,7 +1,7 @@
-http://whitecathitea.github.io/2022/06/19/Hexo+github%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
+http://whitecathitea.github.io/2022/06/19/%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0/Typora+Nodejs+picgo%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/
+http://whitecathitea.github.io/2022/06/19/%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0/Hexo+github%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
 http://whitecathitea.github.io/tags/index.html
 http://whitecathitea.github.io/categories/index.html
 http://whitecathitea.github.io/about/index.html
-http://whitecathitea.github.io/2022/06/19/hello-world/
-http://whitecathitea.github.io/2022/06/19/Typora+Nodejs+picgo%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/
 http://whitecathitea.github.io/
+http://whitecathitea.github.io/categories/%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0/

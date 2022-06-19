@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://whitecathitea.github.io/2022/06/19/Hexo+github%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://whitecathitea.github.io/2022/06/19/%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0/Typora+Nodejs+picgo%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/</loc>
+    
+    <lastmod>2022-06-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whitecathitea.github.io/2022/06/19/%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0/Hexo+github%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     
     <lastmod>2022-06-19</lastmod>
     
@@ -37,24 +46,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://whitecathitea.github.io/2022/06/19/hello-world/</loc>
-    
-    <lastmod>2022-06-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://whitecathitea.github.io/2022/06/19/Typora+Nodejs+picgo%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/</loc>
-    
-    <lastmod>2022-06-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://whitecathitea.github.io/</loc>
@@ -65,5 +56,12 @@
 
   
 
+  
+  <url>
+    <loc>http://whitecathitea.github.io/categories/%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0/</loc>
+    <lastmod>2022-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
